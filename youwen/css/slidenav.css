@@ -1,0 +1,43 @@
+.rightmenu{
+	position: relative;
+}
+.rightmenu1{
+	position: fixed;
+	top:220px;
+	right: 120px;
+	width: 60px;
+	height: 60px;
+	background: url(../img/wechatcode.png);
+	z-index: 90;
+}
+.rightmenuimg{
+	position: fixed;
+	top: 220px;
+	right:190px;
+	width: 116px;
+	height: 110px;
+	background: url(../img/codepic.png);
+	z-index: 90;
+	display: none;
+}
+.rightmenu2{
+	position: fixed;
+	top: 290px;
+	right: 120px;
+	width: 60px;
+	height: 60px;
+	background: url(../img/lineserver.png);
+	z-index: 90;
+}
+.rightmenu3{
+	position: fixed;
+	top: 360px;
+	right: 120px;
+	width: 60px;
+	height:60px;
+	z-index: 90;
+	background: url(../img/backtop.png);
+}
+.rightmenu3:hover{
+	background: url(../img/gotop.png);
+}

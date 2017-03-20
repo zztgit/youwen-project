@@ -1,0 +1,71 @@
+.tab1{
+	position: relative;
+	height: 670px;
+	padding-top: 20px;
+}
+.tab-h2{
+	font-size: 34px;
+	text-align: center;
+	padding-top: 30px;
+	color: #000;
+	font-weight: normal;
+}
+.text{
+	margin-left: -70px;
+}
+.tab-h2 span{
+	font-size: 40px;
+	color: #FF000E;
+}
+.tab-p{
+	font-size: 22px;
+	text-align: center;
+	color: #000;
+	margin: 20px 0 20px 0;
+}
+.row{
+	width: 1200px;
+	height: 494px;
+	margin: 0 auto;
+}
+.media{
+	width: 400px;
+	height: 494px;
+	float: left;
+	margin-top: 40px;
+}
+.media-tip{
+	text-align: center;
+	width: 360px;
+	margin: 0 auto;
+}
+.change1 p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 262px;
+	height: 304px;
+	background: url(../img/teach/teach_change1.png) no-repeat;
+}
+.change1 p:hover{
+	background: url(../img/teach/teach_change11.png) no-repeat;
+}
+.change2 p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 262px;
+	height: 304px;
+	background: url(../img/teach/teach_change2.png) no-repeat;
+}
+.change2 p:hover{
+	background: url(../img/teach/teach_change22.png) no-repeat;
+}
+.change3 p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 262px;
+	height: 304px;
+	background: url(../img/teach/teach_change3.png) no-repeat;
+}
+.change3 p:hover{
+	background: url(../img/teach/teach_change33.png) no-repeat;
+}

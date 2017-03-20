@@ -1,0 +1,45 @@
+header{
+	width: 100%;
+	height: 135px;
+	background: #fff;
+	border-bottom: 1px solid #CCCCCC;
+}
+.min-width{
+	width: 1200px;
+	height: 135px;
+	margin: 0 auto;
+}
+.logo span{
+	float: left;
+	font-size: 28px;
+	font-family: "黑体";
+}
+.navbar ul{
+	width:800px;
+	height: 135px;
+	float: right;
+}
+.navbar ul li{
+	line-height: 135px;
+	width: 80px;
+	text-align: center;
+	float: left;
+}
+.navbar ul li a{
+	font-size: 15px;
+	display: block;
+	height: 135px;
+	color: #000;
+}
+.navbar .navbar-phone {
+	padding-left: 17px;
+	color: #000;
+	margin-left: 13px;
+	font-size:14px;
+	width:175px ;
+	background: url(../img/phone.png) no-repeat center left;
+}
+.navbar ul li a:hover,.navbar ul li.current a{
+		color:#ff000e;
+		border-bottom:3px solid #ff000e;
+}

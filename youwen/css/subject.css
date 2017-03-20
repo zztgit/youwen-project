@@ -1,0 +1,68 @@
+.tab1{
+	position: relative;
+	height: 670px;
+	padding-top: 20px;
+}
+.tab-h2{
+	font-size: 34px;
+	text-align: center;
+	padding-top: 30px;
+	color: #000;
+	font-weight: normal;
+}
+.tab-h2 span{
+	font-size: 40px;
+	color: #FF000E;
+}
+.tab-p{
+	font-size: 22px;
+	text-align: center;
+	color: #000;
+	margin: 20px 0 20px 0;
+}
+.row{
+	width: 1200px;
+	height: 494px;
+	margin: 0 auto;
+}
+.media{
+	width: 400px;
+	height: 494px;
+	float: left;
+	margin-top: 40px;
+}
+.media-tip{
+	text-align: center;
+	width: 360px;
+	margin: 0 auto;
+}
+.change1 p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 262px;
+	height: 304px;
+	background: url(../img/subject/449937710225318657.png) no-repeat;
+}
+.change1 p:hover{
+	background: url(../img/subject/868063232089709408.png) no-repeat;
+}
+.change2 p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 262px;
+	height: 304px;
+	background: url(../img/subject/459087714318528151.png) no-repeat;
+}
+.change2 p:hover{
+	background: url(../img/subject/907809702376063297.png) no-repeat;
+}
+.change3 p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 262px;
+	height: 304px;
+	background: url(../img/subject/477067341404436564.png) no-repeat;
+}
+.change3 p:hover{
+	background: url(../img/subject/169069418439903710.png) no-repeat;
+}
