@@ -1,6 +1,6 @@
 $(function(){
 	$('#fullpage').fullpage({
-    	verticalCentered:false,
+    	verticalCentered:true,
      	css3:true,
      	scrollBar: true,
      	navigation: true,
